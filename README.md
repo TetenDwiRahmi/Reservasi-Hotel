@@ -10,7 +10,7 @@
 ![image](https://user-images.githubusercontent.com/79428814/155655377-5c9d02c6-3bc8-4260-a425-cfa562108c9b.png)
 	
 	
-Untuk menginstal, jalankan 
+### Untuk menginstal, jalankan 
   
 ```shell
  composer require kartik-v/yii2-widget-datetimepicker "*"
@@ -18,7 +18,7 @@ Untuk menginstal, jalankan
 
 ![image](https://user-images.githubusercontent.com/79428814/155654143-3a60d466-c656-41b8-9ad3-399358c80382.png)
 
-Setelah itu tambahkan ini pada composer.json pada file reservasi
+### Setelah itu tambahkan ini pada `composer.json` pada file reservasi
   
 ```json
 "yiisoft/yii2-bootstrap" : "*",  
@@ -26,14 +26,14 @@ Setelah itu tambahkan ini pada composer.json pada file reservasi
   
   ![image](https://user-images.githubusercontent.com/79428814/155654222-64cb389b-a684-433e-bc5a-c196df48ed66.png)
 
-kemudian lakukan composer update pada command promt
+### kemudian lakukan `composer update` pada command promt
 ```json
 composer update  
 ```
   ![image](https://user-images.githubusercontent.com/79428814/155654866-0615bbaa-3dc7-4ccf-8ca3-ef5eafe256c0.png)
 ![image](https://user-images.githubusercontent.com/79428814/155654888-18533188-c01c-4733-92a8-b9e36f4fd41c.png)
 
-  Lakukan pemanggilan sebagai berikut pada _form.php
+### Lakukan pemanggilan sebagai berikut pada `_form.php`
   
   ```shell
   use kartik\datetime\DateTimePicker;
