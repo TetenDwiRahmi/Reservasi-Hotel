@@ -14,5 +14,8 @@ To install, either run
   ```shell
   composer require kartik-v/yii2-widget-datetimepicker "*"
   ```
-  
+
+![image](https://user-images.githubusercontent.com/79428814/155654143-3a60d466-c656-41b8-9ad3-399358c80382.png)
+
+
 ![image](https://user-images.githubusercontent.com/79428814/155652336-984b0e02-a414-45c2-b1e4-a97fc42b66f4.png)
