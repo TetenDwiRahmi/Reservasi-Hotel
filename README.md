@@ -7,6 +7,9 @@
 
 ### Installation
 
+![image](https://user-images.githubusercontent.com/79428814/155655377-5c9d02c6-3bc8-4260-a425-cfa562108c9b.png)
+	
+	
 Untuk menginstal, jalankan 
   
 ```shell
