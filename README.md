@@ -5,7 +5,7 @@
 
 ## <a name="dat-design-api">yii2-widget-datetimepicker 
 
-####Installation
+### Installation
 
 The preferred way to install this extension is through composer. Check the composer.json for this extension's requirements and dependencies. Read this web tip /wiki on setting the minimum-stability settings for your application's composer.json.
 
